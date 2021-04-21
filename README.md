@@ -1,4 +1,4 @@
-#H1 Autonomous Vehicle Behavioral Cloning with Uadcity Simulator
+# Autonomous Vehicle Behavioral Cloning with Uadcity Simulator
 
 I've decided to use the Udacity Self Driving Car Simulator to simulate the training of an autonomous car and enable autonomous driving. The Udacity Simulator is linked below.
 
@@ -23,14 +23,14 @@ After running all the cells and training the model(takes around 2 hours), and ou
 Applicable to real life driving, cars are typically driven around and trained on real roads by manual drivers, then the data is used to train and clone the behavior. 
 
 
-#H1 Libraries and Frameworks Used
+# Libraries and Frameworks Used
 Anaconda
 Keras/Tensorflow
 Flask, Socket.io
 OpenCV
 
 
-#H1 How to Compile and Run Program
+# How to Compile and Run Program
 First make sure the Udacity Simulator is installed.
 The main files in use for this program are the "drive.py" and "model.h5" files. The algorithms to generate the 'model.h5' file is posted on Google Colaboratory as noted above. 
 
