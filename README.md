@@ -1,4 +1,4 @@
-#H1 Autonomous Vehicle Behavioral Cloning with Uadcity Simulator
+# Heading level 1 Autonomous Vehicle Behavioral Cloning with Uadcity Simulator
 
 I've decided to use the Udacity Self Driving Car Simulator to simulate the training of an autonomous car and enable autonomous driving. The Udacity Simulator is linked below.
 
